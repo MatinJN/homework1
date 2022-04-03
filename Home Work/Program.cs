@@ -15,29 +15,39 @@ namespace Home_Work
             Task7();
             Task8();
             Task9();
+            
+
         }
         static void Task1()
         {
             #region task1
-            //int a = 14;
-            //int b = 30;
-            //int c = 23;
-            //if (a > b && a > c)
+            //Console.WriteLine("1ci ededi daxil edin");
+            //string a = Console.ReadLine();
+            //Console.WriteLine("2ci ededi daxil edin");
+            //string b = Console.ReadLine();
+            //Console.WriteLine("3ci ededi daxil edin");
+            //string c = Console.ReadLine(); 
+            //int eded1 = int.Parse(a);
+            //int eded2 = int.Parse(b);
+            //int eded3 = int.Parse(c);
+            //if (eded1 > eded2 && eded1 > eded3)
             //{
-            //    Console.WriteLine($"a boyukdur");
+            //    Console.WriteLine("A boyukdur");
             //}
-            //else if (b > c && b > a)
+            //else if (eded2 > eded1 && eded2 > eded3)
             //{
-            //    Console.WriteLine($"b boyukdur");
+            //    Console.WriteLine("B boyukdur");
             //}
-            //else if (c > b && c > a)
+            //else if(eded3 > eded1 && eded3 > eded2)
             //{
-            //    Console.WriteLine($"c boyukdur");
-                #endregion
+            //    Console.WriteLine("C boyukdur");
+            //}
+            #endregion
+
         }
         static void Task2()
         {
-                #region task2
+            #region task2
                 //Console.WriteLine("1ci ededi daxil edin");
                 //string a = Console.ReadLine();
                 //int eded1 = int.Parse(a);
@@ -256,5 +266,5 @@ namespace Home_Work
             //}
             #endregion
         }
-    }
+    }  
 }
