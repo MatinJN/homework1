@@ -48,36 +48,37 @@ namespace Home_Work
         static void Task2()
         {
             #region task2
-                //Console.WriteLine("1ci ededi daxil edin");
-                //string a = Console.ReadLine();
-                //int eded1 = int.Parse(a);
-                //Console.WriteLine("2ci ededi daxil edin");
-                //string b = Console.ReadLine();
-                //int eded2 = int.Parse(b);
-                //Console.WriteLine("3ci ededi daxil edin");
-                //string c = Console.ReadLine();
-                //int eded3 = int.Parse(c);
-                //Console.WriteLine("4ci ededi daxil edin");
-                //string d = Console.ReadLine();
-                //int eded4 = int.Parse(d);
-                //Console.WriteLine("5ci ededi daxil edin");
-                //string e = Console.ReadLine();
-                //int eded5 = int.Parse(e);
-                //double x = (double)(eded1 + eded2 + eded3 + eded4 + eded5) / 5;
-                //Console.WriteLine(x);
-                #endregion
+            //Console.WriteLine("1ci ededi daxil edin");
+            //string a = Console.ReadLine();
+            //int eded1 = int.Parse(a);
+            //Console.WriteLine("2ci ededi daxil edin");
+            //string b = Console.ReadLine();
+            //int eded2 = int.Parse(b);
+            //Console.WriteLine("3ci ededi daxil edin");
+            //string c = Console.ReadLine();
+            //int eded3 = int.Parse(c);
+            //Console.WriteLine("4ci ededi daxil edin");
+            //string d = Console.ReadLine();
+            //int eded4 = int.Parse(d);
+            //Console.WriteLine("5ci ededi daxil edin");
+            //string e = Console.ReadLine();
+            //int eded5 = int.Parse(e);
+            //double x = (double)(eded1 + eded2 + eded3 + eded4 + eded5) / 5;
+            //Console.WriteLine(x);
+            #endregion
         }
         static void Task3()
         {
             #region task3
-            //int s = 0;
-            //int p = 0;
+            
             //Console.WriteLine("eni");
-            //string a = Console.ReadLine();  
-            //int eded1= int.Parse(a);
+            //string a = Console.ReadLine();
+            //int eded1 = int.Parse(a);
             //Console.WriteLine("uzunluq");
             //string b = Console.ReadLine();
-            //int eded2 = int.Parse(b);    
+            //int eded2 = int.Parse(b);
+            //int s = 0;
+            //int p = 0;
             //p = 2 * (eded1 + eded2);
             //s = (eded1 * eded2);
             //Console.WriteLine($"perimetr{p} sahe{s}")
